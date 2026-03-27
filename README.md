@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tushar-kale-2a76862aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://tusharkale10.github.io/Tushar-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;
+ </a>&nbsp;
   <a href="mailto:tusharkale2037@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://twitter.com/tusharkale2004"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/TusharKale10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -184,25 +184,6 @@ I'm **Tushar Kale**, a Computer Engineering undergraduate at **NBN Sinhgad Techn
 🎓  CGPA: 8.50 / 10.0 | HSC: 91.67% | SSC: 95.20%
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharkale10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkale10&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkale10&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharkale10&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -210,13 +191,15 @@ I'm **Tushar Kale**, a Computer Engineering undergraduate at **NBN Sinhgad Techn
 I'm actively looking for **SDE Internships**, **Full Stack roles**, and **open-source collaborations**.  
 If you're working on something impactful, let's build together!
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kale-2a76862aa)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tusharkale10.github.io/Tushar-Portfolio/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkale2037@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/tushar-kale-2a76862aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+ </a>&nbsp;
+  <a href="mailto:tusharkale2037@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/tusharkale2004"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  </a>
+</div>
 
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tusharkale10&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
