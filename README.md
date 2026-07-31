@@ -33,7 +33,7 @@
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
 > **"Building solutions that matter — from AI-powered health tools to data-driven analytics platforms."**
 
@@ -246,55 +246,49 @@ I'm **Tushar Kale**, a Computer Engineering undergraduate at **NBN Sinhgad Techn
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### AI / ML & Data
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css&theme=dark" height="42" />
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" height="42" />
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="42" />
+&nbsp;<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="26" />
+</td></tr>
+<tr><td><b>Databases</b></td><td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="42" />
+</td></tr>
+<tr><td><b>Cloud &amp; Deploy</b></td><td>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&theme=dark" height="42" />
+&nbsp;<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" height="26" />
+</td></tr>
+<tr><td><b>AI &amp; Data</b></td><td>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" height="26" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="26" />
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="42" />
+&nbsp;<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" height="26" />
+</td></tr>
+<tr><td><b>Core CS</b></td><td>
+<img src="https://img.shields.io/badge/DSA-00D9FF?style=flat-square&logoColor=black" height="26" />
+<img src="https://img.shields.io/badge/OOP-00D9FF?style=flat-square" height="26" />
+<img src="https://img.shields.io/badge/DBMS-00D9FF?style=flat-square" height="26" />
+<img src="https://img.shields.io/badge/Computer_Networks-00D9FF?style=flat-square" height="26" />
+<img src="https://img.shields.io/badge/Operating_Systems-00D9FF?style=flat-square" height="26" />
+</td></tr>
+</table>
 
 ---
 
@@ -376,8 +370,42 @@ If you're working on something impactful, let's build together!
 
 ---
 
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+## 🎖️ Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TusharKale10&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ FUN ═══════════════════ -->
+
+## ✨ Off the Clock
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+</picture>
+
+</div>
+
+> 🤖 I'd rather automate a task once than repeat it fifty times — that's how most of my side projects start.
+> 📖 I read documentation for fun.
+> 📝 Every project I ship gets a README a stranger can actually follow.
+> ☕ Roughly **∞ cups of chai** have gone into the commits above.
+
+---
+
 <div align="center">
   <i>"Code is not just syntax — it's a solution waiting to happen."</i>
   <br/><br/>
   ⭐ <b>If my work helped you, drop a star on any repo!</b> ⭐
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
