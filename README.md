@@ -341,6 +341,13 @@ I'm **Tushar Kale**, a Computer Engineering undergraduate at **NBN Sinhgad Techn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKale10&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=57606A" height="150" alt="Top Languages" />
 </picture>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharKale10/TusharKale10/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TusharKale10/TusharKale10/output/snake.svg" width="100%" alt="Contribution snake animation" />
+</picture>
+
 </div>
 
 ---
