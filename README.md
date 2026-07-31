@@ -328,17 +328,37 @@ I'm **Tushar Kale**, a Computer Engineering undergraduate at **NBN Sinhgad Techn
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TusharKale10&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=9BA4B5" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharKale10&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=57606A" height="165" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TusharKale10&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=9BA4B5&dates=9BA4B5&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  <img src="https://streak-stats.demolab.com?user=TusharKale10&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" height="165" alt="Streak Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharKale10&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharKale10&theme=github" width="88%" alt="Profile Summary" />
 </picture>
 
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKale10&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=9BA4B5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKale10&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=57606A" height="150" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TusharKale10&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=9BA4B5&dates=9BA4B5&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=TusharKale10&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" height="170" alt="Streak Stats" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharKale10&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharKale10&theme=github" height="200" alt="Top Languages by Repo" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharKale10&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharKale10&theme=github" height="200" alt="Most Committed Languages" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharKale10&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharKale10&theme=github" height="200" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharKale10&theme=github_dark&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharKale10&theme=github&utcOffset=5.5" height="200" alt="Productive Time" />
 </picture>
 
 <br/><br/>
@@ -372,18 +392,6 @@ If you're working on something impactful, let's build together!
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TusharKale10&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
-## 🎖️ Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TusharKale10&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
