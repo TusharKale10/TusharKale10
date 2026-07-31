@@ -33,7 +33,7 @@
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
+## 🧑‍💻 About Me
 
 > **"Building solutions that matter — from AI-powered health tools to data-driven analytics platforms."**
 
@@ -321,57 +321,6 @@ I'm **Tushar Kale**, a Computer Engineering undergraduate at **NBN Sinhgad Techn
 
 ---
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharKale10&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TusharKale10&theme=github" width="88%" alt="Profile Summary" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TusharKale10&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=9BA4B5&dates=9BA4B5&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  <img src="https://streak-stats.demolab.com?user=TusharKale10&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" height="170" alt="Streak Stats" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharKale10&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TusharKale10&theme=github" height="200" alt="Top Languages by Repo" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharKale10&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TusharKale10&theme=github" height="200" alt="Most Committed Languages" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharKale10&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharKale10&theme=github" height="200" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharKale10&theme=github_dark&utcOffset=5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharKale10&theme=github&utcOffset=5.5" height="200" alt="Productive Time" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharKale10/TusharKale10/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/TusharKale10/TusharKale10/output/snake.svg" width="100%" alt="Contribution snake animation" />
-</picture>
-
-</div>
-
----
-
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 ## 🤝 Let's Connect
@@ -401,15 +350,6 @@ If you're working on something impactful, let's build together!
 
 ## ✨ Off the Clock
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
-</picture>
-
-</div>
-
 > 🤖 I'd rather automate a task once than repeat it fifty times — that's how most of my side projects start.
 > 📖 I read documentation for fun.
 > 📝 Every project I ship gets a README a stranger can actually follow.
@@ -422,5 +362,3 @@ If you're working on something impactful, let's build together!
   <br/><br/>
   ⭐ <b>If my work helped you, drop a star on any repo!</b> ⭐
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
